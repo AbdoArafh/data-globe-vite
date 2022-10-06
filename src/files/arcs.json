@@ -1,0 +1,135 @@
+[
+    {
+        "order": 1,
+        "startLat": 42,
+        "startLng": 43.5,
+        "endLat": 4.5,
+        "endLng": 114.6667
+    },
+    {
+        "order": 1.5,
+        "startLat": 29.3375,
+        "startLng": 47.6581,
+        "endLat": -26.5,
+        "endLng": 31.5
+    },
+    {
+        "order": 2,
+        "startLat": 49.75,
+        "startLng": 6.1667,
+        "endLat": 17.3333,
+        "endLng": -62.75
+    },
+    {
+        "order": 2.5,
+        "startLat": 7,
+        "startLng": 81,
+        "endLat": 25,
+        "endLng": 17
+    },
+    {
+        "order": 3,
+        "startLat": 43.7667,
+        "startLng": 12.4167,
+        "endLat": 64,
+        "endLng": 26
+    },
+    {
+        "order": 3.5,
+        "startLat": -43,
+        "startLng": 67,
+        "endLat": 2.5,
+        "endLng": 112.5
+    },
+    {
+        "order": 4,
+        "startLat": 16,
+        "startLng": 106,
+        "endLat": 32,
+        "endLng": 35.25
+    },
+    {
+        "order": 4.5,
+        "startLat": -5,
+        "startLng": 120,
+        "endLat": -14.3333,
+        "endLng": -170
+    },
+    {
+        "order": 5,
+        "startLat": 43.7333,
+        "startLng": 7.4,
+        "endLat": -24.7,
+        "endLng": -127.4
+    },
+    {
+        "order": 5.5,
+        "startLat": -2,
+        "startLng": -77.5,
+        "endLat": -33,
+        "endLng": -56
+    },
+    {
+        "order": 6,
+        "startLat": 12,
+        "startLng": -15,
+        "endLat": 40,
+        "endLng": 127
+    },
+    {
+        "order": 6.5,
+        "startLat": -0.5333,
+        "startLng": 166.9167,
+        "endLat": 7,
+        "endLng": 21
+    },
+    {
+        "order": 7,
+        "startLat": 12,
+        "startLng": -15,
+        "endLat": -0.5333,
+        "endLng": 166.9167
+    },
+    {
+        "order": 7.5,
+        "startLat": 40,
+        "startLng": 60,
+        "endLat": 10,
+        "endLng": 8
+    },
+    {
+        "order": 8,
+        "startLat": 19,
+        "startLng": -72.4167,
+        "endLat": 11.5,
+        "endLng": 43
+    },
+    {
+        "order": 8.5,
+        "startLat": 34,
+        "startLng": 9,
+        "endLat": 46,
+        "endLng": 15
+    },
+    {
+        "order": 9,
+        "startLat": 31,
+        "startLng": 36,
+        "endLat": 2.5,
+        "endLng": 112.5
+    },
+    {
+        "order": 9.5,
+        "startLat": -54.4333,
+        "startLng": 3.4,
+        "endLat": 13.8833,
+        "endLng": -61.1333
+    },
+    {
+        "order": 10,
+        "startLat": 46,
+        "startLng": 25,
+        "endLat": -23,
+        "endLng": -58
+    }
+]
